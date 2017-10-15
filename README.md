@@ -1,2 +1,3 @@
 # game-project
-Design a game in Java 8.
+
+  Design goals are stored in google drive > Game Project.
